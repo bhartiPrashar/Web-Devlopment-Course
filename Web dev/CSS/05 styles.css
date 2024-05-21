@@ -1,0 +1,13 @@
+.container{
+    background-color: rgba(156, 30, 135,0.5 );
+    border: 5px solid green;
+    margin: 10px;
+}
+
+.common{
+    box-shadow: 5px 10px 9px 5px green;
+    border-radius: 50px;
+    border-top-color: red;
+    border-left-color: purple;
+    opacity: 80%;
+}

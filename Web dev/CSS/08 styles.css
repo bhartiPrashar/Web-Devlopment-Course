@@ -1,0 +1,26 @@
+.container{
+    display: inline;
+    background-color: rgba(156, 30, 135,0.5 );
+    border: 5px solid green;
+    margin: 0px;
+}
+
+img{
+    display: inline;
+}
+
+.common{
+    border: 3px solid red;
+    position: relative;
+    margin-top: 0px;
+    display: inline;
+    
+}
+
+#div1{
+    /* position: fixed;
+    bottom: 20px; */
+    position: relative;
+   
+    display: inline;
+}

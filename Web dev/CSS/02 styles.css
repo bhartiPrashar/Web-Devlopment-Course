@@ -1,0 +1,21 @@
+.my_style{
+    color: brown;
+    text-align: right;
+    text-decoration: underline;
+    line-height: normal;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 1.3em;
+    font-weight: bold;
+    font-style: italic;
+    
+}
+a{
+    text-decoration: none;
+}
+
+.container{
+    width: 10em;
+    max-width: 200px;
+    /* height: 100px;
+    overflow: scroll; */
+}

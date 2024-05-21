@@ -1,0 +1,8 @@
+.container{
+    padding: 10px 20px 3px 5px;
+    border-width: 10px 5px 4px 2px;
+    border-color: red;
+    border-style: dotted;
+   
+    margin: 10px;
+}

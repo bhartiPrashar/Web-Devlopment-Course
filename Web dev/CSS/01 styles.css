@@ -1,0 +1,12 @@
+
+/* This section is css */
+p{
+    color: aqua;
+    background-color: black;
+}
+#p1{
+    color: aliceblue;
+}
+.red_style{
+    color: rgb(226, 76, 43);
+}

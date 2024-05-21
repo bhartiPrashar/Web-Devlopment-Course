@@ -1,0 +1,8 @@
+.my_style{
+    color: brown;
+    background-color:greenyellow;
+    background-image: url(Pro.jpg);
+    background-repeat: repeat-x;
+    background-size: contain;
+
+}
